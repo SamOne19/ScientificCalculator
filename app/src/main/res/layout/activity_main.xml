@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="9"
-    tools:context="com.samone.ScientificCalculator.MainActivity">
+    tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/input_user"
